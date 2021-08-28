@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     // branch 왤케 어렵냐고;;ㅡㅡㅡㅡㅡㅡ
+    // 두 번째 커밋
    
     lazy var game = Concentration (numberOfPairsOfCards : (cardButtons.count + 1) / 2 )
     
